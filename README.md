@@ -9,6 +9,4 @@
 
 FiveM High Weapon and Explosive Guard
 
-It cancels the monetization action through the trigger, and prevents some things like exploit and your server crashing.
 
-It also disables the types that trigger many events, such as the public cheat, and reverses the cheat, thus creating an automatic order.
