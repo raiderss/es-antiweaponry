@@ -1,3 +1,6 @@
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/EkwWvFS)
+[![Tebex Store](https://img.shields.io/badge/Tebex-Store-green?style=for-the-badge&logo=shopify)](https://eyestore.tebex.io/)
+
 <div align="center">
   <h1>fiveguard.net</h1>
 </div>
@@ -13,11 +16,6 @@ We are **able to provide** this **free product** because of help of **https://fi
 <div align="center">
   <h1>EYES STORE</h1>
 </div>
-
-
-- **_! Raider#0101_**
-- [**Discord**](https://discord.gg/EkwWvFS)
-- [**Tebex**](https://eyestore.tebex.io/)
 
 FiveM High Weapon and Explosive Guard
 
